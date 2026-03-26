@@ -30,7 +30,7 @@
 ## 📌 Featured Projects
 
 ### 🔹 Social Media Platform
-- Angular + .NET Full Stack App
+- Angular 
 - Authentication, Interceptors, Clean Architecture
 
 ### 🔹 Doctor Booking System
