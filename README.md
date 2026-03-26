@@ -72,7 +72,7 @@ Islamic University of Gaza (IUG)
 - 🌐 Portfolio: [https://mohammed-atef-dev.netlify.app](https://mohammed-atef-dev.netlify.app)  
 - 💼 LinkedIn: [https://linkedin.com/in/mohammed-atef-shokor](https://linkedin.com/in/mohammed-atef-shokor)  
 - 📧 Email: mshokor2005@gmail.com
-- 💬 WhatsApp: [+9705999577273](https://wa.me/9705999577273)
+- 💬 WhatsApp: [+970599577273](https://wa.me/9705999577273)
 
 ---
 
